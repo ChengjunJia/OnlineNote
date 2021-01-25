@@ -1,0 +1,14 @@
+九净在SDNLAB上的分享(https://www.fnedu.com/openclass/2681.html)
+
+技能清单
+- Django(把脚本变成服务)
+- 设备交互: netmiko\requests\ncclient\pysnmp
+- 模板解析: RE\jinja2\textfsm
+- 表格处理: pandas
+- 可视化: pyecharts
+
+开源软件:
+- Docker: 快速部署
+- Elk: 网络配置的存储
+- DB: 借助orm
+- NGINX: 部署web应用
